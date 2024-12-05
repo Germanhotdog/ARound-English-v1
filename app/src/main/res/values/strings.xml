@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IERG4998</string>
+    <string name="app_title">ARound \nEnglish</string>
+    <string name="OCR">Object Detection</string>
+    <string name="AR">AR Projection</string>
+    <string name="place">Place</string>
+    <string name="Note">Notes</string>
+</resources>
