@@ -13,7 +13,12 @@ For the AR function, this app allows learners to interact with the real world. U
 
 <img width="131" alt="image" src="https://github.com/user-attachments/assets/8e8d7e95-6afe-477c-acac-c9293cbca0ce">
 
+
+
 	For the object detection function, the app leverages TensorFlow Lite's Image Classifier, which also use Convolutional Neural Network (CNN) to optimize, and CameraX technology to identify objects in real time through the device's camera, providing instant feedback by displaying their English names. The function can allow users to learn new English vocabulary in a convenient way by scanning real-world objects, making the learning process more dynamic.
+
+
+ 
 
  ![image](https://github.com/user-attachments/assets/f4afca10-8bfa-464f-aa15-405678d9fbd6)
 
