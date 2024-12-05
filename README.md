@@ -1,11 +1,8 @@
 # ARound-English-v1
 ARound English ----- a language learning app. This app contains two main functions by far, which is learning with AR and object detection with machine learning classification model.
 
-There are a plenty of language learning app in the mobile app market. In recent years, mobile applications have provided convenient functions such as vocabulary building, grammar exercises, and immersive activities. However, many of these apps rely on traditional methods like flashcards or fill-in-the-blanks, those applications are lack of real-world interactivity and practical application. 
 
-Therefore, our group has developed a mobile app called ARound English ----- a language learning app. This app contains two main functions by far, which is learning with AR and object detection.
-
-For the AR function, this app allows learners to interact with the real world. Using Google ARCore(reference here) and SceneView(reference here), ARound English integrate 3D models with reality and transforms physical spaces into immersive learning environments where users can answer context-specific questions in an interactive and interesting environment. This approach can strength user’s memory for English vocabulary by recognizing with 3D objects.
+For the AR function, this app allows learners to interact with the real world. Using Google ARCore and SceneView, ARound English integrate 3D models with reality and transforms physical spaces into immersive learning environments where users can answer context-specific questions in an interactive and interesting environment. This approach can strength user’s memory for English vocabulary by recognizing with 3D objects.
 
 For the object detection function, the app leverages TensorFlow Lite's Image Classifier, which also use Convolutional Neural Network (CNN) to optimize, and CameraX technology to identify objects in real time through the device's camera, providing instant feedback by displaying their English names. The function can allow users to learn new English vocabulary in a convenient way by scanning real-world objects, making the learning process more dynamic.
 
